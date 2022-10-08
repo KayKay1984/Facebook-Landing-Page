@@ -1,0 +1,62 @@
+body{
+  background-color: #f0f2f5;
+  text-align:center;
+}
+h5{
+  font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+  font-size: 30px;
+  font-weight: normal;
+}
+#pic{
+  width: 15rem;
+}
+#fake{
+  border:1px solid #ccd0d5;
+  margin:5px;
+  width: 18rem;
+  padding: 15px; 
+  border-radius: 5px;
+}
+#log{
+  color: white;
+  font-size: medium;
+  font-weight: 600;
+  background-color:#1877f2 ;
+  border: #1877f2;
+  margin: 5px;
+  margin-bottom: 20px;
+  width:20rem;
+  padding: 10px; 
+  border-radius: 5px;
+}
+hr{
+  width: 89%;
+  margin-top: 20px;
+}
+#FP{
+  color:#1877f2 ;
+  text-decoration: none;
+}
+#hole{
+  background-color:white ;
+  text-align: center;
+  border: 2px solid white;
+  border-radius: 10px;
+  width:22rem;
+  padding: 10px;
+  padding-bottom: 10px;
+  margin: auto;
+  box-shadow:3px 3px 13px 1px;
+}
+#CNA{
+  color:white;
+  font-size: medium;
+  font-weight: 600;
+  background-color: rgb(19, 170, 31) ;
+  border: #1877f2;
+  margin-top:20px;
+  margin-bottom: 20px;
+  width:rem;
+  padding: 10px; 
+  border-radius: 5px;
+}
